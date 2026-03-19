@@ -1,0 +1,16 @@
+# Exclude video files - served from Tebi.io instead
+hls-videos/
+
+# Exclude local environment files
+.env
+
+# Exclude node_modules
+node_modules/
+
+# Exclude development files
+.git/
+.DS_Store
+
+admin/
+
+

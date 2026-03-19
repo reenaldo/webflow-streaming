@@ -1,0 +1,482 @@
+{
+  "title": "Webflow Masterclass 4.0 PRO",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Introduction",
+      "originalName": "00 - Introduction",
+      "isPro": false,
+      "lessons": [
+        {
+          "id": "0-0",
+          "title": "Course Overview & How to make the best of it - Flux Academy",
+          "originalName": "01 - Course Overview & How to make the best of it - Flux Academy.ts",
+          "hlsPath": "00---introduction/01---course-overview-how-to-make-the-best-of-it---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Start here",
+      "originalName": "01 - Start here",
+      "isPro": false,
+      "lessons": [
+        {
+          "id": "1-0",
+          "title": "10 Principles You MUST Understand to Succeed with Webflow - Flux Academy",
+          "originalName": "01 - 10 Principles You MUST Understand to Succeed with Webflow - Flux Academy.ts",
+          "hlsPath": "01---start-here/01---10-principles-you-must-understand-to-succeed-with-webflow---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Level 1 Beginner",
+      "originalName": "02 - Level 1 Beginner",
+      "isPro": false,
+      "lessons": [
+        {
+          "id": "2-0",
+          "title": "What we’re building & learning in this level - Flux Academy",
+          "originalName": "01 - What we’re building & learning in this level - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/01---what-were-building-learning-in-this-level---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-1",
+          "title": "Analising the template structure - Flux Academy",
+          "originalName": "02 - Analising the template structure - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/02---analising-the-template-structure---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-2",
+          "title": "Customizing look & feel - Flux Academy",
+          "originalName": "03 - Customizing look & feel - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/03---customizing-look-feel---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-3",
+          "title": "Adding projects to the CMS - Flux Academy",
+          "originalName": "04 - Adding projects to the CMS - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/04---adding-projects-to-the-cms---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-4",
+          "title": "Add a new custom page - Flux Academy",
+          "originalName": "05 - Add a new custom page - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/05---add-a-new-custom-page---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-5",
+          "title": "Fixing responsiveness & issues - Flux Academy",
+          "originalName": "06 - Fixing responsiveness & issues - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/06---fixing-responsiveness-issues---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-6",
+          "title": "Connecting the form - Flux Academy",
+          "originalName": "07 - Connecting the form - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/07---connecting-the-form---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-7",
+          "title": "Final Setup, Publishing & Connecting to a domain - Flux Academy",
+          "originalName": "08 - Final Setup, Publishing & Connecting to a domain - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/08---final-setup-publishing-connecting-to-a-domain---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "2-8",
+          "title": "Level 1 Conclusion & Skill Verification - Flux Academy",
+          "originalName": "09 - Level 1 Conclusion & Skill Verification - Flux Academy.ts",
+          "hlsPath": "02---level-1-beginner/09---level-1-conclusion-skill-verification---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Level 2 Intermediate",
+      "originalName": "03 - Level 2 Intermediate",
+      "isPro": false,
+      "lessons": [
+        {
+          "id": "3-0",
+          "title": "What we’re building & learning in this level - Flux Academy",
+          "originalName": "01 - What we’re building & learning in this level - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/01---what-were-building-learning-in-this-level---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-1",
+          "title": "Working with Libraries & Relume - Flux Academy",
+          "originalName": "02 - Working with Libraries & Relume - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/02---working-with-libraries-relume---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-2",
+          "title": "Setting up the Website Project & CMS - Flux Academy",
+          "originalName": "03 - Setting up the Website Project & CMS - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/03---setting-up-the-website-project-cms---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-3",
+          "title": "Defining the Style Guide - Flux Academy",
+          "originalName": "04 - Defining the Style Guide - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/04---defining-the-style-guide---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-4",
+          "title": "Importing the Content Components - Flux Academy",
+          "originalName": "05 - Importing the Content Components - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/05---importing-the-content-components---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-5",
+          "title": "Customising Home Page - Flux Academy",
+          "originalName": "06 - Customising Home Page - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/06---customising-home-page---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-6",
+          "title": "CMS Classes Page - Flux Academy",
+          "originalName": "07 - CMS Classes Page - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/07---cms-classes-page---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-7",
+          "title": "CMS Class Details & Dynamic Booking Popup - Flux Academy",
+          "originalName": "08 - CMS Class Details & Dynamic Booking Popup - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/08---cms-class-details-dynamic-booking-popup---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-8",
+          "title": "CMS Instructors - Flux Academy",
+          "originalName": "09 - CMS Instructors - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/09---cms-instructors---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-9",
+          "title": "E-commerce Yoga Handbook - Flux Academy",
+          "originalName": "10 - E-commerce Yoga Handbook - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/10---e-commerce-yoga-handbook---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-10",
+          "title": "Adding Interactions & Animations - Flux Academy",
+          "originalName": "11 - Adding Interactions & Animations - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/11---adding-interactions-animations---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-11",
+          "title": "Adding 3D Spline object & Interaction - Flux Academy",
+          "originalName": "12 - Adding 3D Spline object & Interaction - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/12---adding-3d-spline-object-interaction---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-12",
+          "title": "Reviewing Responsiveness - Flux Academy",
+          "originalName": "13 - Reviewing Responsiveness - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/13---reviewing-responsiveness---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-13",
+          "title": "Accessibility & Privacy - Flux Academy",
+          "originalName": "14 - Accessibility & Privacy - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/14---accessibility-privacy---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "3-14",
+          "title": "Level 2 Conclusion & Skill Verification - Flux Academy",
+          "originalName": "15 - Level 2 Conclusion & Skill Verification - Flux Academy.ts",
+          "hlsPath": "03---level-2-intermediate/15---level-2-conclusion-skill-verification---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Level 3 Advanced",
+      "originalName": "04 - Level 3 Advanced",
+      "isPro": false,
+      "lessons": [
+        {
+          "id": "4-0",
+          "title": "What we’re building & Learning in this level - Flux Academy",
+          "originalName": "01 - What we’re building & Learning in this level - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/01---what-were-building-learning-in-this-level---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-1",
+          "title": "CMS Setup & Content Import - Flux Academy",
+          "originalName": "02 - CMS Setup & Content Import - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/02---cms-setup-content-import---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-2",
+          "title": "Setting up a custom style guide - Flux Academy",
+          "originalName": "03 - Setting up a custom style guide - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/03---setting-up-a-custom-style-guide---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-3",
+          "title": "Building the hero section - Flux Academy",
+          "originalName": "04 - Building the hero section - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/04---building-the-hero-section---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-4",
+          "title": "Hero animation & preloader - Flux Academy",
+          "originalName": "05 - Hero animation & preloader - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/05---hero-animation-preloader---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-5",
+          "title": "Building the mega menu - Flux Academy",
+          "originalName": "06 - Building the mega menu - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/06---building-the-mega-menu---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-6",
+          "title": "Marquee Scroll Section - Flux Academy",
+          "originalName": "07 - Marquee Scroll Section - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/07---marquee-scroll-section---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-7",
+          "title": "Building a CMS Slider - Flux Academy",
+          "originalName": "08 - Building a CMS Slider - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/08---building-a-cms-slider---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-8",
+          "title": "Members Only Section - Flux Academy",
+          "originalName": "09 - Members Only Section - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/09---members-only-section---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-9",
+          "title": "Building Calendar Grid - Flux Academy",
+          "originalName": "10 - Building Calendar Grid - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/10---building-calendar-grid---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-10",
+          "title": "Using Finsweet CMS Filtering - Flux Academy",
+          "originalName": "11 - Using Finsweet CMS Filtering - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/11---using-finsweet-cms-filtering---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-11",
+          "title": "Building Footer - Flux Academy",
+          "originalName": "12 - Building Footer - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/12---building-footer---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-12",
+          "title": "Building Video Library - Flux Academy",
+          "originalName": "13 - Building Video Library - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/13---building-video-library---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-13",
+          "title": "Building Membership Site (using Memberstack) - Flux Academy",
+          "originalName": "14 - Building Membership Site (using Memberstack) - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/14---building-membership-site-using-memberstack---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-14",
+          "title": "Responsiveness & Final Touches - Flux Academy",
+          "originalName": "15 - Responsiveness & Final Touches - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/15---responsiveness-final-touches---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-15",
+          "title": "Adding Multiple Languages with Localization - Flux Academy",
+          "originalName": "16 - Adding Multiple Languages with Localization - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/16---adding-multiple-languages-with-localization---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "4-16",
+          "title": "Level 3 Conclusion & Skill Verification - Flux Academy",
+          "originalName": "17 - Level 3 Conclusion & Skill Verification - Flux Academy.ts",
+          "hlsPath": "04---level-3-advanced/17---level-3-conclusion-skill-verification---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Building Your Webflow Career - PRO",
+      "originalName": "05 - Building Your Webflow Career - PRO",
+      "isPro": true,
+      "lessons": [
+        {
+          "id": "5-0",
+          "title": "Introduction & Process Overview - Flux Academy",
+          "originalName": "01 - Introduction & Process Overview - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/01---introduction-process-overview---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-1",
+          "title": "Effective Project Management Notion Template, Starter Project, Communication & Feedback - Flux Academy",
+          "originalName": "02 - Effective Project Management Notion Template, Starter Project, Communication & Feedback - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/02---effective-project-management-notion-template-starter-project-communication-feedback---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-2",
+          "title": "Ultimate Webflow Build Checklist - Flux Academy",
+          "originalName": "03 - Ultimate Webflow Build Checklist - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/03---ultimate-webflow-build-checklist---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-3",
+          "title": "Pricing, Proposals & Closing Deals - Flux Academy",
+          "originalName": "04 - Pricing, Proposals & Closing Deals - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/04---pricing-proposals-closing-deals---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-4",
+          "title": "Onboarding & Managing Client Expectations - Flux Academy",
+          "originalName": "05 - Onboarding & Managing Client Expectations - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/05---onboarding-managing-client-expectations---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-5",
+          "title": "Transferring Project & Smooth Launches - Flux Academy",
+          "originalName": "06 - Transferring Project & Smooth Launches - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/06---transferring-project-smooth-launches---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-6",
+          "title": "Client Training & Handover Example videos - Flux Academy",
+          "originalName": "07 - Client Training & Handover Example videos - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/07---client-training-handover-example-videos---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-7",
+          "title": "Finding & Retaining New Clients - Flux Academy",
+          "originalName": "08 - Finding & Retaining New Clients - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/08---finding-retaining-new-clients---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-8",
+          "title": "Becoming a Webflow Expert - Flux Academy",
+          "originalName": "09 - Becoming a Webflow Expert - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/09---becoming-a-webflow-expert---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "5-9",
+          "title": "Scaling into a Webflow Agency - Flux Academy",
+          "originalName": "10 - Scaling into a Webflow Agency - Flux Academy.ts",
+          "hlsPath": "05---building-your-webflow-career---pro/10---scaling-into-a-webflow-agency---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Working In a Team - PRO",
+      "originalName": "06 - Working In a Team - PRO",
+      "isPro": true,
+      "lessons": [
+        {
+          "id": "6-0",
+          "title": "Creating & Managing Team Accounts - Flux Academy",
+          "originalName": "01 - Creating & Managing Team Accounts - Flux Academy.ts",
+          "hlsPath": "06---working-in-a-team---pro/01---creating-managing-team-accounts---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "6-1",
+          "title": "Establishing a Collaborative Workflow for Designers and Developers - Flux Academy",
+          "originalName": "02 - Establishing a Collaborative Workflow for Designers and Developers - Flux Academy.ts",
+          "hlsPath": "06---working-in-a-team---pro/02---establishing-a-collaborative-workflow-for-designers-and-developers---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "6-2",
+          "title": "Styling & Structuring Considerations for Teams - Flux Academy",
+          "originalName": "03 - Styling & Structuring Considerations for Teams - Flux Academy.ts",
+          "hlsPath": "06---working-in-a-team---pro/03---styling-structuring-considerations-for-teams---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "6-3",
+          "title": "Team Project Management & Organization - Flux Academy",
+          "originalName": "04 - Team Project Management & Organization - Flux Academy.ts",
+          "hlsPath": "06---working-in-a-team---pro/04---team-project-management-organization---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Conclusion & Next Steps",
+      "originalName": "07 - Conclusion & Next Steps",
+      "isPro": false,
+      "lessons": [
+        {
+          "id": "7-0",
+          "title": "Conclusion & What’s Next - Flux Academy",
+          "originalName": "01 - Conclusion & What’s Next - Flux Academy.ts",
+          "hlsPath": "07---conclusion-next-steps/01---conclusion-whats-next---flux-academy/index.m3u8",
+          "duration": null
+        },
+        {
+          "id": "7-1",
+          "title": "Your Certification Assignment - Flux Academy",
+          "originalName": "02 - Your Certification Assignment - Flux Academy.ts",
+          "hlsPath": "07---conclusion-next-steps/02---your-certification-assignment---flux-academy/index.m3u8",
+          "duration": null
+        }
+      ]
+    }
+  ]
+}
